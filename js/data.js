@@ -1,0 +1,1 @@
+export const ApI = fetch('http://46.101.247.236:8080/viloyat');
